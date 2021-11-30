@@ -1,4 +1,4 @@
-![Banner Image](./banner.png)
+![Banner Image](./banner_github.png)
 
 ## hi 👋
 
