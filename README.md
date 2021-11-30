@@ -10,4 +10,3 @@ I'm Ming-Pok!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mp-ng&langs_count=10&layout=compact&theme=tokyonight)
 
-![General Stats](https://github-readme-stats.vercel.app/api?username=mp-ng&theme=tokyonight&show_icons=true)
