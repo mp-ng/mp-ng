@@ -1,6 +1,6 @@
 ![Banner Image](./banner.png)
 
-# hi 👋
+# Hi 👋
 
 I'm Ming-Pok Ng!
 - <i>Currently:</i> Year 1 CS Student at Imperial College London
