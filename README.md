@@ -3,7 +3,7 @@
 # Hi 👋
 
 I'm Ming-Pok!
-- <i>Currently:</i>  Year 1 CS Student at Imperial College London
+- <i>Currently:</i> Year 1 CS Student at Imperial College London
 - <i>Previously:</i> Engineer Intern at Cisco Systems
 
 # GitHub Stats
