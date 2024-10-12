@@ -1,5 +1,3 @@
-![Banner Image](./banner.png)
-
 # Hi 👋
 
 I'm Ming-Pok!
